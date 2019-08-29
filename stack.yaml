@@ -1,3 +1,4 @@
-resolver: lts-13.8
+# resolver: lts-13.8
+resolver: lts-13.17  # same as pandoc
 packages:
   - '.'
